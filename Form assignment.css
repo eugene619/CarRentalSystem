@@ -1,0 +1,40 @@
+body{
+    background-color: mediumslateblue;
+    margin-left: 100px;
+    margin-top: 50px;
+
+
+    
+}
+form{
+    background-color: white;
+    width: 340px;
+    height: 450px;
+    padding: 70px;
+    padding-top: 1px;
+    padding-left: 20px;
+}
+input[type=text],input[type=email],input[type=password]{
+    width: 100%;
+    height: 30px;
+    margin-top: 10px;}
+button{
+    background-color: mediumblue;
+    width: 100%;
+    height: 45px;
+
+}
+button:hover{
+    background-color: teal;
+}
+#main{
+    display: flex
+}
+
+#div2{
+    background-image: url("IMAGES/laptop.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+
+}
+

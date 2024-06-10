@@ -1,0 +1,26 @@
+h1{
+    text-align: center;
+}
+
+
+form{
+    background-color: deepskyblue;
+    width: 50%;
+    padding: 30px;
+    margin: auto;
+    border-radius: 20px;
+    box-shadow: 1px 12px 12px green;
+}
+input[type=text],input[type=email],input[type=password]{
+    width: 100%;
+    height: 30px;
+    margin-top: 10px;
+}
+button{
+    background-color: blue;
+    width: 200px;
+    height: 50px;
+}
+button:hover{
+    background-color: cadetblue;
+}

@@ -1,0 +1,16 @@
+form{
+    width: 60%;
+    margin: auto;
+    background-color: green;
+    padding: 50px;
+}
+input[type=text]:focus,input[type=email]:focus{
+    background-color: gold;
+}
+fieldset{
+    padding: 20px;
+}
+.fisrt{
+    display: flex;
+    align-items: center;
+}
